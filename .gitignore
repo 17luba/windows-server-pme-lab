@@ -1,0 +1,25 @@
+# Images disque et machines virtuelles
+*.iso
+*.vdi
+*.vhd
+*.vhdx
+*.ova
+*.7z
+
+# Captures réseau
+*.pcapng
+*.pcap
+
+# Journaux et sauvegardes
+*.log
+*.bak
+
+# Secrets : aucun mot de passe, clé ou identifiant dans le dépôt
+*password*
+*.secret
+*.key
+
+# Fichiers de l'éditeur ou de Windows
+.vscode/
+Thumbs.db
+Desktop.ini
